@@ -15,8 +15,8 @@ On February 5, 2020, under [Decree no. 371 issued by the Head of the Civil Prote
 The Committee is composed of experts and qualified representatives of State Bodies and Administrations. Its current composition was revised by the [Ordinance of the Head of Department no. 663 of April 18, 2020](http://www.protezionecivile.gov.it/amministrazione-trasparente/provvedimenti/dettaglio/-/asset_publisher/default/content/ocdpc-n-663-del-18-aprile-2020-ulteriori-interventi-urgenti-di-protezione-civile-in-relazione-all-emergenza-relativa-al-rischio-sanitario-connesso-all).
 The reports are published 45 days after the meetings to which they refer.
 Personal details and other identification data of private individuals or corporate bodies and their health products have been obscured. The aim is to meet the requirements of transparency while maintaining the confidentiality of third parties.
-The attachments and the documents submitted for evaluation by the TSC have also been removed, in accordance with the provisions of [article 5-bis, paragraph 2, of Legislative Decree 33/2013](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33!vig=), and taking into account the high number of counterparts, as provided for in FOIA Circular 1/2019. ​
-
+The attachments and the documents submitted for evaluation by the TSC have also been removed, in accordance with the provisions of [article 5-bis, paragraph 2, of Legislative Decree 33/2013](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33!vig=), and taking into account the high number of counterparts, as provided for in FOIA Circular 1/2019.<br><br><br>
+**[Elenco verbali](elenco-verbali.md)**<br><br>
 
 ## Licenza / License
 
