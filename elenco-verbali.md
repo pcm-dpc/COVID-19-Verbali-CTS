@@ -109,10 +109,18 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-07/covid-19-cts-verbale-092-2020070102.pdf">Verbale n. 92 del 1 e 2 luglio 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-07/covid-19-cts-verbale-093-20200703.pdf">Verbale n. 93 del 3 luglio 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-07/covid-19-cts-verbale-094-20200707.pdf">Verbale n. 94 del 7 luglio 2020</a><br>
+<<<<<<< HEAD
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-07/covid-19-cts-verbale-095-2020071620.pdf">Verbale n. 95 del 16 e 20 luglio 2020</a><br><br>
+=======
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-07/covid-19-cts-verbale-095-2020071620.pdf">Verbale n. 95 del 16 e 20 luglio 2020</a><br>
+>>>>>>> 63ec1941b1b34c527def2f705b90c050cc3ce81d
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-07/covid-19-cts-verbale-096-20200724.pdf">Verbale n. 96 del 24 luglio 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-07/covid-19-cts-verbale-097-20200730.pdf">Verbale n. 97 del 30 luglio 2020</a><br><br>
 
 ### Agosto
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-07/covid-19-cts-verbale-098-20200805.pdf">Verbale n. 98 del 05 agosto 2020</a><br>
+<<<<<<< HEAD
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-07/covid-19-cts-verbale-099-20200806.pdf">Verbale n. 99 del 06 agosto 2020</a><br><br>
+=======
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-07/covid-19-cts-verbale-099-20200806.pdf">Verbale n. 99 del 06 agosto 2020</a><br><br>
+>>>>>>> 63ec1941b1b34c527def2f705b90c050cc3ce81d
