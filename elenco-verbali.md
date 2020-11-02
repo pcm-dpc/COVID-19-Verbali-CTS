@@ -126,4 +126,5 @@
 ### Settembre
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-09/covid-19-cts-verbale-105-20200903.pdf">Verbale n. 105 del 03 settembre 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-09/covid-19-cts-verbale-106-20200907.pdf">Verbale n. 106 del 07 settembre 2020</a><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-09/covid-19-cts-verbale-107-20200915.pdf">Verbale n. 107 del 15 settembre 2020</a><br><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-09/covid-19-cts-verbale-107-20200915.pdf">Verbale n. 107 del 15 settembre 2020</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-09/covid-19-cts-verbale-108-20200918.pdf">Verbale n. 108 del 18 settembre 2020</a><br><br>
