@@ -137,3 +137,5 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-113-20201007.pdf">Verbale n. 113 del 07 ottobre 2020</a><br><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-114-20201008.pdf">Verbale n. 114 del 08 ottobre 2020</a><br><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-115-20201011.pdf">Verbale n. 115 del 11 ottobre 2020</a><br><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-116-20201012.pdf">Verbale n. 116 del 12 ottobre 2020</a><br><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-117-20201014.pdf">Verbale n. 117 del 14 ottobre 2020</a><br><br>
