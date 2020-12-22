@@ -132,18 +132,22 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-09/covid-19-cts-verbale-110-20200929.pdf">Verbale n. 110 del 29 settembre 2020</a><br><br>
 
 ### Ottobre
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-111-20201001.pdf">Verbale n. 111 del 01 ottobre 2020</a><br><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-112-20201005.pdf">Verbale n. 112 del 05 ottobre 2020</a><br><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-113-20201007.pdf">Verbale n. 113 del 07 ottobre 2020</a><br><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-114-20201008.pdf">Verbale n. 114 del 08 ottobre 2020</a><br><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-115-20201011.pdf">Verbale n. 115 del 11 ottobre 2020</a><br><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-116-20201012.pdf">Verbale n. 116 del 12 ottobre 2020</a><br><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-117-20201014.pdf">Verbale n. 117 del 14 ottobre 2020</a><br><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-118-20201017.pdf">Verbale n. 118 del 17 ottobre 2020</a><br><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-119-20201018.pdf">Verbale n. 119 del 18 ottobre 2020</a><br><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-120-20201021.pdf">Verbale n. 120 del 21 ottobre 2020</a><br><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-121-20201024.pdf">Verbale n. 121 del 24 ottobre 2020</a><br><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-111-20201001.pdf">Verbale n. 111 del 01 ottobre 2020</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-112-20201005.pdf">Verbale n. 112 del 05 ottobre 2020</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-113-20201007.pdf">Verbale n. 113 del 07 ottobre 2020</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-114-20201008.pdf">Verbale n. 114 del 08 ottobre 2020</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-115-20201011.pdf">Verbale n. 115 del 11 ottobre 2020</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-116-20201012.pdf">Verbale n. 116 del 12 ottobre 2020</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-117-20201014.pdf">Verbale n. 117 del 14 ottobre 2020</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-118-20201017.pdf">Verbale n. 118 del 17 ottobre 2020</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-119-20201018.pdf">Verbale n. 119 del 18 ottobre 2020</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-120-20201021.pdf">Verbale n. 120 del 21 ottobre 2020</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-121-20201024.pdf">Verbale n. 121 del 24 ottobre 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-122-20201031.pdf">Verbale n. 122 del 31 ottobre 2020</a><br><br>
 
 ### Novembre
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-11/covid-19-cts-verbale-123-20201103.pdf">Verbale n. 123 del 03 novembre 2020</a><br><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-11/covid-19-cts-verbale-123-20201103.pdf">Verbale n. 123 del 03 novembre 2020</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-11/covid-19-cts-verbale-124-20201108.pdf">Verbale n. 124 del 08 novembre 2020</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-11/covid-19-cts-verbale-125-20201109.pdf">Verbale n. 125 del 09 novembre 2020</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-11/covid-19-cts-verbale-126-20201113.pdf">Verbale n. 126 del 13 novembre 2020</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-11/covid-19-cts-verbale-127-20201113.pdf">Verbale n. 127 del 13 novembre 2020</a><br><br>
