@@ -152,4 +152,6 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-11/covid-19-cts-verbale-126-20201113.pdf">Verbale n. 126 del 13 novembre 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-11/covid-19-cts-verbale-127-20201113.pdf">Verbale n. 127 del 13 novembre 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-11/covid-19-cts-verbale-128-20201119.pdf">Verbale n. 128 del 19 novembre 2020</a><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-11/covid-19-cts-verbale-129-20201120.pdf">Verbale n. 129 del 20 novembre 2020</a><br><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-11/covid-19-cts-verbale-129-20201120.pdf">Verbale n. 129 del 20 novembre 2020</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-11/covid-19-cts-verbale-130-20201123.pdf">Verbale n. 130 del 23 novembre 2020</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-11/covid-19-cts-verbale-131-20201127.pdf">Verbale n. 131 del 27 novembre 2020</a><br><br>
