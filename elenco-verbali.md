@@ -4,7 +4,7 @@
 
 ## Elenco verbali
 
-### Febbraio
+### Febbraio 2020
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-02/covid-19-cts-verbale-001-20200207.pdf">Verbale n. 1 del 7 febbraio 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-02/covid-19-cts-verbale-002-20200210.pdf">Verbale n. 2 del 10 febbraio 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-02/covid-19-cts-verbale-003-20200212.pdf">Verbale n. 3 del 12 febbraio 2020</a><br>
@@ -19,7 +19,7 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-02/covid-19-cts-verbale-012-20200228.pdf">Verbale n. 12 del 28 febbraio 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-02/covid-19-cts-verbale-013-20200229.pdf">Verbale n. 13 del 29 febbraio 2020</a><br>
 
-### Marzo
+### Marzo 2020
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-03/covid-19-cts-verbale-014-20200301.pdf">Verbale n. 14 del 1 marzo 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-03/covid-19-cts-verbale-015-20200302.pdf">Verbale n. 15 del 2 marzo 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-03/covid-19-cts-verbale-016-20200303.pdf">Verbale n. 16 del 3 marzo 2020</a><br>
@@ -48,7 +48,7 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-03/covid-19-cts-verbale-039-20200330.pdf">Verbale n. 39 del 3 0 marzo 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-03/covid-19-cts-verbale-040-20200331.pdf">Verbale n. 40 del 31 marzo 2020</a><br>
 
-### Aprile
+### Aprile 2020
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-04/covid-19-cts-verbale-041-20200401.pdf">Verbale n. 41 del 1 aprile 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-04/covid-19-cts-verbale-042-20200402.pdf">Verbale n. 42 del 2 aprile 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-04/covid-19-cts-verbale-043-20200403.pdf">Verbale n. 43 del 3 aprile 2020</a><br>
@@ -73,7 +73,7 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-04/covid-19-cts-verbale-062-20200429.pdf">Verbale n. 62 del 29 aprile 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-04/covid-19-cts-verbale-063-20200430.pdf">Verbale n. 63 del 30 aprile 2020</a><br>
 
-### Maggio
+### Maggio 2020
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-05/covid-19-cts-verbale-064-20200502.pdf">Verbale n. 64 del 2 maggio 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-05/covid-19-cts-verbale-065-20200503.pdf">Verbale n. 65 del 3 maggio 2020</a><br>
 <a href="http://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-05/covid-19-cts-verbale-066-202005040506.pdf">Verbale n. 66 del 4, 5 e 6 maggio 2020</a><br>
@@ -95,7 +95,7 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-05/covid-19-cts-verbale-082-20200528.pdf">Verbale n. 82 del 28 maggio 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-05/covid-19-cts-verbale-083-20200529.pdf">Verbale n. 83 del 29 maggio 2020</a><br>
 
-### Giugno
+### Giugno 2020
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-06/covid-19-cts-verbale-084-20200603.pdf">Verbale n. 84 del 3 giugno 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-06/covid-19-cts-verbale-085-20200603.pdf">Verbale n. 85 del 3 giugno 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-06/covid-19-cts-verbale-086-20200605.pdf">Verbale n. 86 del 5 giugno 2020</a><br>
@@ -105,7 +105,7 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-06/covid-19-cts-verbale-090-20200622.pdf">Verbale n. 90 del 22 giugno 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-06/covid-19-cts-verbale-091-20200623.pdf">Verbale n. 91 del 23 giugno 2020</a><br>
 
-### Luglio
+### Luglio 2020
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-07/covid-19-cts-verbale-092-2020070102.pdf">Verbale n. 92 del 1 e 2 luglio 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-07/covid-19-cts-verbale-093-20200703.pdf">Verbale n. 93 del 3 luglio 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-07/covid-19-cts-verbale-094-20200707.pdf">Verbale n. 94 del 7 luglio 2020</a><br>
@@ -114,7 +114,7 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-07/covid-19-cts-verbale-096-20200724.pdf">Verbale n. 96 del 24 luglio 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-07/covid-19-cts-verbale-097-20200730.pdf">Verbale n. 97 del 30 luglio 2020</a><br><br>
 
-### Agosto
+### Agosto 2020
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-08/covid-19-cts-verbale-098-20200805.pdf">Verbale n. 98 del 05 agosto 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-08/covid-19-cts-verbale-099-20200806.pdf">Verbale n. 99 del 06 agosto 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-08/covid-19-cts-verbale-100-20200810.pdf ">Verbale n. 100 del 10 agosto 2020</a><br>
@@ -123,7 +123,7 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-08/covid-19-cts-verbale-103-20200828.pdf">Verbale n. 103 del 28 agosto 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-08/covid-19-cts-verbale-104-20200831.pdf">Verbale n. 104 del 31 agosto 2020</a><br><br>
 
-### Settembre
+### Settembre 2020
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-09/covid-19-cts-verbale-105-20200903.pdf">Verbale n. 105 del 03 settembre 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-09/covid-19-cts-verbale-106-20200907.pdf">Verbale n. 106 del 07 settembre 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-09/covid-19-cts-verbale-107-20200915.pdf">Verbale n. 107 del 15 settembre 2020</a><br>
@@ -131,7 +131,7 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-09/covid-19-cts-verbale-109-20200926.pdf">Verbale n. 109 del 26 settembre 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-09/covid-19-cts-verbale-110-20200929.pdf">Verbale n. 110 del 29 settembre 2020</a><br><br>
 
-### Ottobre
+### Ottobre 2020
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-111-20201001.pdf">Verbale n. 111 del 01 ottobre 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-112-20201005.pdf">Verbale n. 112 del 05 ottobre 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-113-20201007.pdf">Verbale n. 113 del 07 ottobre 2020</a><br>
@@ -145,7 +145,7 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-121-20201024.pdf">Verbale n. 121 del 24 ottobre 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-122-20201031.pdf">Verbale n. 122 del 31 ottobre 2020</a><br><br>
 
-### Novembre
+### Novembre 2020
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-11/covid-19-cts-verbale-123-20201103.pdf">Verbale n. 123 del 03 novembre 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-11/covid-19-cts-verbale-124-20201108.pdf">Verbale n. 124 del 08 novembre 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-11/covid-19-cts-verbale-125-20201109.pdf">Verbale n. 125 del 09 novembre 2020</a><br>
@@ -157,7 +157,7 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-11/covid-19-cts-verbale-131-20201127.pdf">Verbale n. 131 del 27 novembre 2020</a><br><br>
 
 
-### Dicembre
+### Dicembre 2020
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-12/covid-19-cts-verbale-132-20201203.pdf">Verbale n. 132 del 03 dicembre 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-12/covid-19-cts-verbale-133-20201203.pdf">Verbale n. 133 del 03 dicembre 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-12/covid-19-cts-verbale-134-20201204.pdf">Verbale n. 134 del 04 dicembre 2020</a><br>
@@ -167,3 +167,7 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-12/covid-19-cts-verbale-138-20201224.pdf">Verbale n. 138 del 24 dicembre 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-12/covid-19-cts-verbale-139-20201229.pdf">Verbale n. 139 del 29 dicembre 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-12/covid-19-cts-verbale-140-20201231.pdf">Verbale n. 140 del 31 dicembre 2020</a><br><br>
+
+
+### Gennaio 2021
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-01/covid-19-cts-verbale-141-20210103.pdf">Verbale n. 141 del 03 gennaio 2021</a><br><br>
