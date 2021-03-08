@@ -168,11 +168,13 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-12/covid-19-cts-verbale-139-20201229.pdf">Verbale n. 139 del 29 dicembre 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-12/covid-19-cts-verbale-140-20201231.pdf">Verbale n. 140 del 31 dicembre 2020</a><br><br>
 
-
 ### Gennaio 2021
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-01/covid-19-cts-verbale-141-20210103.pdf">Verbale n. 141 del 03 gennaio 2021</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-01/covid-19-cts-verbale-142-20210104.pdf">Verbale n. 142 del 04 gennaio 2021</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-01/covid-19-cts-verbale-143-20210108.pdf">Verbale n. 143 del 08 gennaio 2021</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-01/covid-19-cts-verbale-144-20210112.pdf">Verbale n. 144 del 12 gennaio 2021</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-01/covid-19-cts-verbale-145-20210115.pdf">Verbale n. 145 del 15 gennaio 2021</a><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-01/covid-19-cts-verbale-146-20210117.pdf">Verbale n. 146 del 17 gennaio 2021</a><br><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-01/covid-19-cts-verbale-146-20210117.pdf">Verbale n. 146 del 17 gennaio 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-01/covid-19-cts-verbale-147-20210122.pdf">Verbale n. 147 del 22 gennaio 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-01/covid-19-cts-verbale-148-20210122.pdf">Verbale n. 148 del 22 gennaio 2021</a><br>
+<br>
