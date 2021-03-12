@@ -177,4 +177,7 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-01/covid-19-cts-verbale-146-20210117.pdf">Verbale n. 146 del 17 gennaio 2021</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-01/covid-19-cts-verbale-147-20210122.pdf">Verbale n. 147 del 22 gennaio 2021</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-01/covid-19-cts-verbale-148-20210122.pdf">Verbale n. 148 del 22 gennaio 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-01/covid-19-cts-verbale-149-20210129.pdf">Verbale n. 149 del 29 gennaio 2021</a><br>
 <br>
+<br>
+
