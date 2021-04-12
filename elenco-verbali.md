@@ -190,5 +190,7 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-02/covid-19-cts-verbale-156-20210219.pdf">Verbale n. 156 del 19 febbraio 2021</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-02/covid-19-cts-verbale-157-20210223.pdf">Verbale n. 157 del 23 febbraio 2021</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-02/covid-19-cts-verbale-158-20210224.pdf">Verbale n. 158 del 24 febbraio 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-02/covid-19-cts-verbale-159-20210226.pdf">Verbale n. 159 del 26 febbraio 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-02/covid-19-cts-verbale-160-20210226.pdf">Verbale n. 160 del 26 febbraio 2021</a><br>
 <br>
 
