@@ -220,5 +220,9 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-accessibile-008-20210416.pdf">Verbale n. 008 del 16 aprile 2021 (Versione Accessibile)</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-009-20210420.pdf">Verbale n. 009 del 20 aprile 2021</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-accessibile-009-20210420.pdf">Verbale n. 009 del 20 aprile 2021 (Versione Accessibile)</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-010-20210421.pdf">Verbale n. 010 del 21 aprile 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-accessibile-010-20210421.pdf">Verbale n. 010 del 21 aprile 2021 (Versione Accessibile)</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-011-20210423.pdf">Verbale n. 011 del 23 aprile 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-accessibile-011-20210423.pdf">Verbale n. 011 del 23 aprile 2021 (Versione Accessibile)</a><br>
 <br>
 
