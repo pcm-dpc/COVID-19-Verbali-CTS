@@ -227,6 +227,6 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-012-20210429.pdf">Verbale n. 012 del 29 aprile 2021</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-accessibile-012-20210429.pdf">Verbale n. 012 del 29 aprile 2021 (Versione Accessibile)</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-013-20210430.pdf">Verbale n. 013 del 30 aprile 2021</a><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-accessibile-013-20210430">Verbale n. 013 del 30 aprile 2021 (Versione Accessibile)</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-accessibile-013-20210430.pdf">Verbale n. 013 del 30 aprile 2021 (Versione Accessibile)</a><br>
 <br>
 
