@@ -134,6 +134,7 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-04/covid-19-cts-verbale-accessibile-063-20200430.pdf">Verbale n. 63 del 30 aprile 2020 (Versione Accessibile)</a><br>
 
 ### Maggio 2020
+
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-05/covid-19-cts-verbale-064-20200502.pdf">Verbale n. 64 del 2 maggio 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-05/covid-19-cts-verbale-accessibile-064-20200502.pdf">Verbale n. 64 del 2 maggio 2020 (Versione Accessibile)</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-05/covid-19-cts-verbale-065-20200503.pdf">Verbale n. 65 del 3 maggio 2020</a><br>
@@ -176,6 +177,7 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-05/covid-19-cts-verbale-accessibile-083-20200529.pdf">Verbale n. 83 del 29 maggio 2020 (Versione Accessibile)</a><br>
 
 ### Giugno 2020
+
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-06/covid-19-cts-verbale-084-20200603.pdf">Verbale n. 84 del 3 giugno 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-06/covid-19-cts-verbale-accessibile-084-20200603.pdf">Verbale n. 84 del 3 giugno 2020 (Versione Accessibile)</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-06/covid-19-cts-verbale-085-20200603.pdf">Verbale n. 85 del 3 giugno 2020</a><br>
@@ -195,6 +197,7 @@
 
 
 ### Luglio 2020
+
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-07/covid-19-cts-verbale-092-2020070102.pdf">Verbale n. 92 del 1 e 2 luglio 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-07/covid-19-cts-verbale-accessibile-092-2020070102.pdf">Verbale n. 92 del 1 e 2  luglio 2020 (Versione Accessibile)</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-07/covid-19-cts-verbale-093-20200703.pdf">Verbale n. 93 del 3 luglio 2020</a><br>
@@ -211,6 +214,7 @@
 
 
 ### Agosto 2020
+
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-08/covid-19-cts-verbale-098-20200805.pdf">Verbale n. 98 del 05 agosto 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-08/covid-19-cts-verbale-accessibile-098-20200805.pdf">Verbale n. 98 del 5 agosto 2020 (Versione Accessibile)</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-08/covid-19-cts-verbale-099-20200806.pdf">Verbale n. 99 del 06 agosto 2020</a><br>
@@ -227,6 +231,7 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-08/covid-19-cts-verbale-accessibile-104-20200831.pdf">Verbale n. 104 del 31 agosto 2020 (Versione Accessibile)</a><br>
 
 ### Settembre 2020
+
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-09/covid-19-cts-verbale-105-20200903.pdf">Verbale n. 105 del 03 settembre 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-09/covid-19-cts-verbale-accessibile-105-20200903.pdf">Verbale n. 105 del 03 settembre 2020 (Versione Accessibile)</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-09/covid-19-cts-verbale-106-20200907.pdf">Verbale n. 106 del 07 settembre 2020</a><br>
@@ -241,6 +246,7 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-09/covid-19-cts-verbale-accessibile-110-20200929.pdf">Verbale n. 110 del 29 settembre 2020 (Versione Accessibile)</a><br>
 
 ### Ottobre 2020
+
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-111-20201001.pdf">Verbale n. 111 del 01 ottobre 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-accessibile-111-20201001.pdf">Verbale n. 111 del 1 ottobre 2020 (Versione Accessibile)</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-10/covid-19-cts-verbale-112-20201005.pdf">Verbale n. 112 del 05 ottobre 2020</a><br>
@@ -333,6 +339,7 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-01/covid-19-cts-verbale-accessibile-150-20210129.pdf">Verbale n. 150 del 29 gennaio 2021 (Versione Accessibile)</a><br>
 
 ### Febbraio 2021
+
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-02/covid-19-cts-verbale-151-20210204.pdf">Verbale n. 151 del 04 febbraio 2021</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-02/covid-19-cts-verbale-accessibile-151-20210204.pdf">Verbale n. 151 del 04 febbraio 2021 (Versione Accessibile)</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-02/covid-19-cts-verbale-152-20210205.pdf">Verbale n. 152 del 05 febbraio 2021</a><br>
@@ -375,6 +382,7 @@
 <br>
 
 ### Aprile 2021
+
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-005-20210402.pdf">Verbale n. 005 del 02 aprile 2021</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-accessibile-005-20210402.pdf">Verbale n. 005 del 2 aprile 2021 (Versione Accessibile)</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-006-20210409.pdf">Verbale n. 006 del 09 aprile 2021</a><br>
@@ -393,5 +401,21 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-accessibile-012-20210429.pdf">Verbale n. 012 del 29 aprile 2021 (Versione Accessibile)</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-013-20210430.pdf">Verbale n. 013 del 30 aprile 2021</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-accessibile-013-20210430.pdf">Verbale n. 013 del 30 aprile 2021 (Versione Accessibile)</a><br>
+<br>
+
+### Maggio 2021
+
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-014-20210505.pdf">Verbale n. 014 del 05 maggio 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-accessibile-014-20210505.pdf">Verbale n. 014 del 05 maggio 2021 (Versione Accessibile)</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-015-20210507.pdf">Verbale n. 015 del 07 maggio 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-accessibile-015-20210507.pdf">Verbale n. 015 del 07 maggio 2021 (Versione Accessibile)</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-016-20210510.pdf">Verbale n. 016 del 10 maggio 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-accessibile-016-20210510.pdf">Verbale n. 016 del 10 maggio 2021 (Versione Accessibile)</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-017-20210512.pdf">Verbale n. 017 del 12 maggio 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-accessibile-017-20210512.pdf">Verbale n. 017 del 12 maggio 2021 (Versione Accessibile)</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-018-20210514.pdf">Verbale n. 018 del 14 maggio 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-accessibile-018-20210514.pdf">Verbale n. 018 del 18 maggio 2021 (Versione Accessibile)</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-019-20210518.pdf">Verbale n. 019 del 18 maggio 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-04/covid-19-cts-verbale-accessibile-019-20210518.pdf">Verbale n. 019 del 18 maggio 2021 (Versione Accessibile)</a><br>
 <br>
 
