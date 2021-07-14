@@ -6,8 +6,11 @@
 
 ### Febbraio 2020
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-02/covid-19-cts-verbale-001-20200207.pdf">Verbale n. 1 del 7 febbraio 2020</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-02/covid-19-cts-verbale-accessibile-001-20200207.pdf">Verbale n. 1 del 7 febbraio 2020 (Versione Accessibile)</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-02/covid-19-cts-verbale-002-20200210.pdf">Verbale n. 2 del 10 febbraio 2020</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-02/covid-19-cts-verbale-accessibile-002-20200210.pdf">Verbale n. 2 del 10 febbraio 2020 (Versione Accessibile)</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-02/covid-19-cts-verbale-003-20200212.pdf">Verbale n. 3 del 12 febbraio 2020</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-02/covid-19-cts-verbale-accessibile-003-20200212.pdf">Verbale n. 3 del 12 febbraio 2020 (Versione Accessibile)</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-02/covid-19-cts-verbale-004-20200214.pdf">Verbale n. 4 del 14 febbraio 2020</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-02/covid-19-cts-verbale-accessibile-004-20200214.pdf">Verbale n. 4 del 14 febbraio 2020 (Versione Accessibile)</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-02/covid-19-cts-verbale-005-20200218.pdf">Verbale n. 5 del 18 febbraio 2020</a><br>
