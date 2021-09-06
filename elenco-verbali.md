@@ -452,18 +452,18 @@
 
 ### Luglio 2021
 
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-06/covid-19-cts-verbale-032-20210702.pdf">Verbale n. 032 del 02 luglio 2021</a><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-06/covid-19-cts-verbale-accessibile-032-20210702.pdf">Verbale n. 032 del 02 luglio 2021 (Versione Accessibile)</a><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-06/covid-19-cts-verbale-033-20210709.pdf">Verbale n. 033 del 09 luglio 2021</a><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-06/covid-19-cts-verbale-accessibile-033-20210709.pdf">Verbale n. 033 del 09 luglio 2021 (Versione Accessibile)</a><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-06/covid-19-cts-verbale-034-20210712.pdf">Verbale n. 034 del 12 luglio 2021</a><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-06/covid-19-cts-verbale-accessibile-034-20210712.pdf">Verbale n. 034 del 12 luglio 2021 (Versione Accessibile)</a><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-06/covid-19-cts-verbale-035-20210716.pdf">Verbale n. 035 del 16 luglio 2021</a><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-06/covid-19-cts-verbale-accessibile-035-20210716.pdf">Verbale n. 035 del 16 luglio 2021 (Versione Accessibile)</a><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-06/covid-19-cts-verbale-036-20210721.pdf">Verbale n. 036 del 21 luglio 2021</a><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-06/covid-19-cts-verbale-accessibile-036-20210721.pdf">Verbale n. 036 del 21 luglio 2021 (Versione Accessibile)</a><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-06/covid-19-cts-verbale-037-20210723.pdf">Verbale n. 037 del 23 luglio 2021</a><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-06/covid-19-cts-verbale-accessibile-037-20210723.pdf">Verbale n. 037 del 23 luglio 2021 (Versione Accessibile)</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-07/covid-19-cts-verbale-032-20210702.pdf">Verbale n. 032 del 02 luglio 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-07/covid-19-cts-verbale-accessibile-032-20210702.pdf">Verbale n. 032 del 02 luglio 2021 (Versione Accessibile)</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-07/covid-19-cts-verbale-033-20210709.pdf">Verbale n. 033 del 09 luglio 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-07/covid-19-cts-verbale-accessibile-033-20210709.pdf">Verbale n. 033 del 09 luglio 2021 (Versione Accessibile)</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-07/covid-19-cts-verbale-034-20210712.pdf">Verbale n. 034 del 12 luglio 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-07/covid-19-cts-verbale-accessibile-034-20210712.pdf">Verbale n. 034 del 12 luglio 2021 (Versione Accessibile)</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-07/covid-19-cts-verbale-035-20210716.pdf">Verbale n. 035 del 16 luglio 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-07/covid-19-cts-verbale-accessibile-035-20210716.pdf">Verbale n. 035 del 16 luglio 2021 (Versione Accessibile)</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-07/covid-19-cts-verbale-036-20210721.pdf">Verbale n. 036 del 21 luglio 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-07/covid-19-cts-verbale-accessibile-036-20210721.pdf">Verbale n. 036 del 21 luglio 2021 (Versione Accessibile)</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-07/covid-19-cts-verbale-037-20210723.pdf">Verbale n. 037 del 23 luglio 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-07/covid-19-cts-verbale-accessibile-037-20210723.pdf">Verbale n. 037 del 23 luglio 2021 (Versione Accessibile)</a><br>
 <br>
 
 
