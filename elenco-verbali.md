@@ -464,6 +464,14 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-07/covid-19-cts-verbale-accessibile-036-20210721.pdf">Verbale n. 036 del 21 luglio 2021 (Versione Accessibile)</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-07/covid-19-cts-verbale-037-20210723.pdf">Verbale n. 037 del 23 luglio 2021</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-07/covid-19-cts-verbale-accessibile-037-20210723.pdf">Verbale n. 037 del 23 luglio 2021 (Versione Accessibile)</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-07/covid-19-cts-verbale-038-20210730.pdf">Verbale n. 038 del 30 luglio 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-07/covid-19-cts-verbale-accessibile-038-20210730.pdf">Verbale n. 038 del 30 luglio 2021 (Versione Accessibile)</a><br>
 <br>
 
+### Agosto 2021
 
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-08/covid-19-cts-verbale-039-20210805.pdf">Verbale n. 039 del 05 agosto 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-08/covid-19-cts-verbale-accessibile-039-20210805.pdf">Verbale n. 039 del 05 agosto 2021 (Versione Accessibile)</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-08/covid-19-cts-verbale-040-20210806.pdf">Verbale n. 040 del 06 agosto 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-08/covid-19-cts-verbale-accessibile-040-20210806.pdf">Verbale n. 040 del 06 agosto 2021 (Versione Accessibile)</a><br>
+<br>
