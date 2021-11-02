@@ -482,10 +482,10 @@
 
 ### settembre 2021
 
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-08/covid-19-cts-verbale-043-20210903.pdf">Verbale n. 043 del 03 settembre 2021</a><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-08/covid-19-cts-verbale-accessibile-043-20210903.pdf">Verbale n. 043 del 03 settembre 2021 (Versione Accessibile)</a><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-08/covid-19-cts-verbale-044-20210910.pdf">Verbale n. 044 del 10 settembre 2021</a><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-08/covid-19-cts-verbale-accessibile-044-20210910.pdf">Verbale n. 044 del 10 settembre 2021 (Versione Accessibile)</a><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-08/covid-19-cts-verbale-045-20210917.pdf">Verbale n. 045 del 17 settembre 2021</a><br>
-<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-08/covid-19-cts-verbale-accessibile-045-20210917.pdf">Verbale n. 045 del 17 settembre 2021 (Versione Accessibile)</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-09/covid-19-cts-verbale-043-20210903.pdf">Verbale n. 043 del 03 settembre 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-09/covid-19-cts-verbale-accessibile-043-20210903.pdf">Verbale n. 043 del 03 settembre 2021 (Versione Accessibile)</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-09/covid-19-cts-verbale-044-20210910.pdf">Verbale n. 044 del 10 settembre 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-09/covid-19-cts-verbale-accessibile-044-20210910.pdf">Verbale n. 044 del 10 settembre 2021 (Versione Accessibile)</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-09/covid-19-cts-verbale-045-20210917.pdf">Verbale n. 045 del 17 settembre 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-09/covid-19-cts-verbale-accessibile-045-20210917.pdf">Verbale n. 045 del 17 settembre 2021 (Versione Accessibile)</a><br>
 <br>
