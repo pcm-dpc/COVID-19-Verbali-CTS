@@ -480,7 +480,7 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-08/covid-19-cts-verbale-accessibile-042-20210827.pdf">Verbale n. 042 del 27 agosto 2021 (Versione Accessibile)</a><br>
 
 
-### settembre 2021
+### Settembre 2021
 
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-09/covid-19-cts-verbale-043-20210903.pdf">Verbale n. 043 del 03 settembre 2021</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-09/covid-19-cts-verbale-accessibile-043-20210903.pdf">Verbale n. 043 del 03 settembre 2021 (Versione Accessibile)</a><br>
