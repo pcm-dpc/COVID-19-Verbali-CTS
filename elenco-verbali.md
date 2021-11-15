@@ -478,6 +478,7 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-08/covid-19-cts-verbale-accessibile-041-20210820.pdf">Verbale n. 041 del 20 agosto 2021 (Versione Accessibile)</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-08/covid-19-cts-verbale-042-20210827.pdf">Verbale n. 042 del 27 agosto 2021</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-08/covid-19-cts-verbale-accessibile-042-20210827.pdf">Verbale n. 042 del 27 agosto 2021 (Versione Accessibile)</a><br>
+<br>
 
 
 ### settembre 2021
@@ -495,3 +496,6 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-09/covid-19-cts-verbale-048-20210927.pdf">Verbale n. 048 del 27 settembre 2021</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-09/covid-19-cts-verbale-accessibile-048-20210927.pdf">Verbale n. 048 del 27 settembre 2021 (Versione Accessibile)</a><br>
 <br>
+=======
+<br>
+
