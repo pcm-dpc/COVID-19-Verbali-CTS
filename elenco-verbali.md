@@ -496,3 +496,11 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-09/covid-19-cts-verbale-048-20210927.pdf">Verbale n. 048 del 27 settembre 2021</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-09/covid-19-cts-verbale-accessibile-048-20210927.pdf">Verbale n. 048 del 27 settembre 2021 (Versione Accessibile)</a><br>
 <br>
+
+### ottobre 2021
+
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-10/covid-19-cts-verbale-049-20211005.pdf">Verbale n. 049 del 05 ottobre 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-10/covid-19-cts-verbale-accessibile-049-20211005.pdf">Verbale n. 05 del 05 ottobre 2021 (Versione Accessibile)</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-10/covid-19-cts-verbale-050-20211015.pdf">Verbale n. 050 del 15 ottobre 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-10/covid-19-cts-verbale-accessibile-050-20211015.pdf">Verbale n. 050 del 15 ottobre 2021 (Versione Accessibile)</a><br>
+<br>
