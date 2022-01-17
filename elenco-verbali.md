@@ -516,4 +516,6 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-11/covid-19-cts-verbale-accessibile-054-20211124.pdf">Verbale n. 054 del 24 novembre 2021 (Versione Accessibile)</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-11/covid-19-cts-verbale-055-20211129.pdf">Verbale n. 055 del 29 novembre 2021</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-11/covid-19-cts-verbale-accessibile-055-20211129.pdf">Verbale n. 055 del 29 novembre 2021 (Versione Accessibile)</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-12/covid-19-cts-verbale-056-20211203.pdf">Verbale n. 056 del 03 dicembre 2021</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-12/covid-19-cts-verbale-accessibile-056-20211203.pdf">Verbale n. 056 del 03 dicembre 2021 (Versione Accessibile)</a><br>
 <br>
