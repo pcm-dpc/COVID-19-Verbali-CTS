@@ -526,3 +526,5 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-12/covid-19-cts-verbale-058-20211229.pdf">Verbale n. 058 del 29 dicembre 2021</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2021-12/covid-19-cts-verbale-accessibile-058-20211229.pdf">Verbale n. 058 del 29 dicembre 2021 (Versione Accessibile)</a><br>
 <br>
+
+### Fine anno 2021
