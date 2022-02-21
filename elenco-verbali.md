@@ -528,3 +528,8 @@
 <br>
 
 ### Fine anno 2021
+
+### Gennaio 2022
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2022-01/covid-19-cts-verbale-059-20220107.pdf">Verbale n. 059 del 07 gennaio 2022</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2022-01/covid-19-cts-verbale-accessibile-059-20220107.pdf">Verbale n. 059 del 07 gennaio 2022 (Versione Accessibile)</a><br>
+<br>
