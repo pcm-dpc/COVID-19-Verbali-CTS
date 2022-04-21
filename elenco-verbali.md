@@ -542,3 +542,8 @@
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2022-02/covid-19-cts-verbale-062-20220204.pdf">Verbale n. 062 del 04 febbraio 2022</a><br>
 <a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2022-02/covid-19-cts-verbale-accessibile-062-20220204.pdf">Verbale n. 062 del 04 febbraio 2022 (Versione Accessibile)</a><br>
 <br>
+
+### Marzo 2022
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2022-03/covid-19-cts-verbale-063-20220304.pdf">Verbale n. 063 del 04 marzo 2022</a><br>
+<a href="https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2022-03/covid-19-cts-verbale-accessibile-063-20220304.pdf">Verbale n. 063 del 04 marzo 2022 (Versione Accessibile)</a><br>
+<br>
